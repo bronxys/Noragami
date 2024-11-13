@@ -1,0 +1,77 @@
+{
+  "perfis": [
+    {
+      "usuario": "5511959391525@s.whatsapp.net",
+      "nome": "nunu",
+      "descricao": "adoro mulher",
+      "likes": [
+        "559885512460@s.whatsapp.net",
+        "5511959391525@s.whatsapp.net"
+      ],
+      "dislikes": [],
+      "comentarios": [
+        {
+          "autor": "5516994232898@s.whatsapp.net",
+          "texto": "uiui nunu"
+        }
+      ]
+    },
+    {
+      "usuario": "559885512460@s.whatsapp.net",
+      "nome": "netão",
+      "descricao": "comedor de casada",
+      "likes": [
+        "5511959391525@s.whatsapp.net",
+        "5511959391525@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net",
+        "559885512460@s.whatsapp.net"
+      ],
+      "dislikes": [],
+      "comentarios": []
+    },
+    {
+      "usuario": "556192435447@s.whatsapp.net",
+      "nome": "mp3",
+      "descricao": "gostoso e o nunu tbm",
+      "likes": [
+        "5511959391525@s.whatsapp.net"
+      ],
+      "dislikes": [],
+      "comentarios": []
+    },
+    {
+      "usuario": "553498891989@s.whatsapp.net",
+      "nome": "hayato",
+      "descricao": "gay \"eu so mt gay\"",
+      "likes": [],
+      "dislikes": [],
+      "comentarios": []
+    },
+    {
+      "usuario": "5516994232898@s.whatsapp.net",
+      "nome": "lucas",
+      "descricao": "oi",
+      "likes": [
+        "5511959391525@s.whatsapp.net"
+      ],
+      "dislikes": [],
+      "comentarios": []
+    }
+  ]
+}

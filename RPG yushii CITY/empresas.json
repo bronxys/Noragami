@@ -1,0 +1,33 @@
+{
+  "empresas": [
+    {
+      "dono": "5521977181280@s.whatsapp.net",
+      "nome": "bots",
+      "tipo": "basica",
+      "valor": 30000,
+      "produtos": [],
+      "lucro": 1.1e+95
+    },
+    {
+      "dono": "5511972055817@s.whatsapp.net",
+      "nome": "Sandro-apis",
+      "tipo": "basica",
+      "valor": 30000,
+      "produtos": [
+        {
+          "nome": "irmã da akiyamia",
+          "valor": 300
+        }
+      ],
+      "lucro": 0
+    },
+    {
+      "dono": "5516994232898@s.whatsapp.net",
+      "nome": "Akiyama-X",
+      "tipo": "basica",
+      "valor": 30000,
+      "produtos": [],
+      "lucro": 0
+    }
+  ]
+}
