@@ -196,13 +196,13 @@ var tempo = 'Boa Noite'
 }
 
 
-const banner2 = cfonts.render((`${tempo}, tudo bem contigo?\n\n\n\nNORAGAMI SYSTEM FREE!\nInsta Dev OFC: @Regis7x\nHOSPEDAGEM: Bronxys Host (top 1)`), {
+const banner2 = cfonts.render((`${tempo}, tudo bem contigo?\n\n\n\nNORAGAMI SYSTEM !\nInsta Dev OFC: @Regis7x\nHOSPEDAGEM: Bronxys Hostinger (top 1)`), {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']
 });
  
-const banner3 = cfonts.render((`FREE`), {
+const banner3 = cfonts.render((`BOT`), {
   font: 'block',
   align: "center",
   gradient: ['cyan', 'magenta']

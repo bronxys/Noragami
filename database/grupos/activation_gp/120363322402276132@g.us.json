@@ -12,7 +12,7 @@
     "antiloc": false,
     "antilinkgp": false,
     "antilinkhard": false,
-    "antifake": false,
+    "antifake": true,
     "antiporn": false,
     "Odelete": false,
     "antispam": false,

@@ -1,0 +1,39 @@
+{
+  "clans": [
+    {
+      "nome": "Uchiha",
+      "chefe": "554499482560@s.whatsapp.net",
+      "members": [
+        {
+          "id": "554499482560@s.whatsapp.net",
+          "life": 100,
+          "level": 4,
+          "xp": 0,
+          "strength": 20,
+          "sharingan": false,
+          "lastTraining": 1718448256277
+        }
+      ]
+    },
+    {
+      "nome": "Uzumaki",
+      "chefe": "5511959391525@s.whatsapp.net",
+      "members": [
+        {
+          "id": "5511959391525@s.whatsapp.net",
+          "life": 100,
+          "level": 1,
+          "xp": 80,
+          "strength": 15,
+          "sharingan": false,
+          "lastTraining": 1718359179321
+        }
+      ]
+    },
+    {
+      "nome": "Hyuga",
+      "chefe": "",
+      "members": []
+    }
+  ]
+}
