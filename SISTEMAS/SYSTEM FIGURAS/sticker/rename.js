@@ -5,9 +5,7 @@ videoToWebp,
 writeExifImg,
 writeExifVid
 } = require('./exif');
-const {
-getBuffer
-} = require('../../FUNÇÕES/functions.js');
+const { getBuffer } = require('../../FUNÇÕES/functions.js')
 
 const sendImageAsSticker = async (conn, jid, path, quoted, options = {}) => {
 let buff = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0);

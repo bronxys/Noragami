@@ -9,16 +9,16 @@ const bgcolor = (text, bgcolor) => {
 }
 
 const mylog = (text, color) => {
-	return !color ? chalk.greenBright('') + chalk.magentaBright(text) : chalk.greenBright('') + chalk.keyword(color)(text)
+	return !color ? chalk.greenBright('[ WHATSAPP BOT ] ') + chalk.magentaBright(text) : chalk.greenBright('[ WHATSAPP BOT ] ') + chalk.keyword(color)(text)
 }
 
 const infolog = (text) => {
-	return chalk.greenBright('') + chalk.magentaBright(text)
+	return chalk.greenBright('[ WHATSAPP BOT ] ') + chalk.magentaBright(text)
 }
 
 module.exports = {
-color,
-bgcolor,
-mylog,
-infolog
+	color,
+	bgcolor,
+    mylog,
+    infolog
 }

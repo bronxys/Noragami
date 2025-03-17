@@ -24,7 +24,7 @@
 },
 "name": "noragami",
 "description": "@Regis7x",
-"version": "3.4",
+"version": "3.5.1",
 "main": "index.js",
 "devDependencies": {},
 "scripts": {
